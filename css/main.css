@@ -19,6 +19,7 @@ body {
     text-align: center;
     height: 110px;
     padding-bottom: 40px;
+    transform: scale(1.1);
 }
 .navbar img {
     display: inline-block;
@@ -40,13 +41,6 @@ body {
     padding: 5px;
 }
 
-/* SEARCH BOX STYLING*/
-#search-input {
-    margin-top: 15px;
-    margin-bottom: 10px;
-    width: 300px;
-    padding: 5px;
-}
 
 /*mobile styles*/
 @media only screen and (max-width: 768px) {
