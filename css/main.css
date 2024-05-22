@@ -6,10 +6,7 @@ body {
 }
 
 /*****************************************************
-
  ---------------NAV BAR STYLING----------
-
-
 *****************************************************/
 
 .navbar {
@@ -50,10 +47,7 @@ body {
 
 
 /*****************************************************
-
  ---------------BANNER STYLING----------
-
-
 *****************************************************/
 .banner  {
     display: none;
@@ -106,9 +100,7 @@ body {
 }
 
 /*****************************************************
-
  ---------------ACCORDION STYLING----------
-
  ****************************************************/
 .accordion {
     background-color: #000000;
@@ -137,9 +129,7 @@ body {
 
 
 /*****************************************************
-
  ---------------Button STYLING----------
-
  ****************************************************/
 
 .rounded-button {
@@ -165,9 +155,7 @@ body {
 }
 
 /*****************************************************
-
  ---------------Movie POSTERS STYLING----------
-
  ****************************************************/
 
 .moviePoster-container{
@@ -194,9 +182,7 @@ body {
 }
 
 /*****************************************************
-
  ---------------FOOTER STYLING----------
-
  ****************************************************/
 
 .footer{
@@ -218,9 +204,7 @@ body {
 }
 
 /*****************************************************
-
- ---------------Game POSTERS STYLING----------
-
+ ---------------POSTERS STYLING----------
  ****************************************************/
 
  .gamePoster-container{
@@ -228,14 +212,14 @@ body {
     margin-top: 25px;
     margin-bottom: 15px;
 }
-.gamePoster-container p{ /*This is the style for paragraphs in moviePoster-container*/
+.gamePoster-container p{ /*paragraphs in moviePoster-container*/
     font-family: "Georgia", sans-serif;
     font-size: 15px;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 20px;
 }
-.gamePoster-container img{ /*This is the style for images in moviePoster-container*/
+.gamePoster-container img{ /*images in moviePoster-container*/
     height: 430px;
     width: 303px;
     border-radius: 10px;
